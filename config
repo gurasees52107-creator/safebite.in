@@ -1,0 +1,11 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[remote "origin"]
+	url = https://t:eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3ODE5NDI3ODQsImlhdCI6MTc3OTM1MDc4NCwiaXNzIjoibG92YWJsZSIsInJlcG8iOiJ3b3Jrc3BhY2VfTndPMXJDQ2NuUjNRdGFjTUxqM1kiLCJzY29wZXMiOlsiZ2l0OnJlYWQiXSwic3ViIjoibG92YWJsZS1hcGkifQ.FOA9CEQLU9KytlD-L8WsbIjGh86B3YE0HyjhvA8ebV3Y7B6XO_yF76K9CdX4iG1DvzHlJvFMiErkzpe3SVhCvg@git.private.lovable-gcp.code.storage/workspace_NwO1rCCcnR3QtacMLj3Y.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "master"]
+	remote = origin
+	merge = refs/heads/master
